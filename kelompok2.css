@@ -1,0 +1,23 @@
+html {
+    background-color: rgb(227, 243, 220);
+}
+
+table, th, td {
+    border-color: rgb(129, 127, 137);
+    border-style: solid;
+    height: 3rem;
+    width: 40%;
+    text-align: center;
+
+}
+
+.list span {
+    color: rgb(118, 7, 7);
+}
+
+.homie img{
+    height: 10rem;
+    width: 15rem;
+    /* display: flex; */
+    float: right;
+}
